@@ -1,2 +1,2 @@
-# Game_Of_Life
+# Game of Life
 A python implementation of Conway's game of life
